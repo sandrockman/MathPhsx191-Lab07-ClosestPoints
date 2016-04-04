@@ -1,0 +1,6 @@
+C:\Users\svc-student\Desktop\MathPhsx191-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\bin\Debug\vhaskin1-Lab07-ClosestPoints.exe.config
+C:\Users\svc-student\Desktop\MathPhsx191-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\bin\Debug\vhaskin1-Lab07-ClosestPoints.exe
+C:\Users\svc-student\Desktop\MathPhsx191-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\bin\Debug\vhaskin1-Lab07-ClosestPoints.pdb
+C:\Users\svc-student\Desktop\MathPhsx191-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\obj\Debug\vhaskin1-Lab07-ClosestPoints.csprojResolveAssemblyReference.cache
+C:\Users\svc-student\Desktop\MathPhsx191-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\obj\Debug\vhaskin1-Lab07-ClosestPoints.exe
+C:\Users\svc-student\Desktop\MathPhsx191-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\vhaskin1-Lab07-ClosestPoints\obj\Debug\vhaskin1-Lab07-ClosestPoints.pdb
